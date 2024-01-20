@@ -15,4 +15,7 @@ Furthermore, python scripts such as train.py and predict.py are created and can 
 to train a neural network and predict class of flower by accepting input of a file path. The application is run
 by invoking the file using the command "python train.py" and "python predict.py".
 
+The project was implemented within udacity's GPU enabled workspace, the source file for this project is not included
+as it is to heavy.
+
 
